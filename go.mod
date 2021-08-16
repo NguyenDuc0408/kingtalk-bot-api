@@ -1,4 +1,4 @@
-module stv-git.sohatv.vn/tungtd/kingtalk-bot-api
+module github.com/NguyenDuc0408/kingtalk-bot-api
 
 go 1.16
 
